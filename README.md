@@ -112,8 +112,8 @@
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)](https://t.me/rzpio)
-[![Email](https://img.shields.io/badge/Email-your@email.com-red?logo=gmail)](mailto:cephei.l@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@rzpio-blue?logo=telegram)](https://t.me/rzpio)
+[![Email](https://img.shields.io/badge/Email-cephei.l@yandex.ru-red?logo=gmail)](mailto:cephei.l@yandex.ru)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-Резюме-critical)](https://hh.ru/resume/57942d5eff100e0ce80039ed1f375349486c54)
 
 ---

@@ -92,9 +92,11 @@
 -->
 
 
+
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [Explore With Me](https://github.com/cepheil/java-explore-with-me) | Микросервисная афиша событий: создание, модерация, заявки на участие, подборки, статистика просмотров, комментарии | `Java 21` · `Spring Boot` · `Spring Data JPA` · `PostgreSQL` · `Docker` · `Maven` |
+| [ShareIt](https://github.com/cepheil/java-shareit) | Микросервисный шеринг вещей: публикация, поиск, бронирование, отзывы. Gateway + Server, валидация, покрытие тестами 90%+ | `Java 21` · `Spring Boot` · `Spring Data JPA` · `PostgreSQL` · `MapStruct` · `Docker` · `Maven` |
 
 
 ---

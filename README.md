@@ -27,7 +27,7 @@
 > Backend-приложение для автоматизации диспетчерской работы
 
 
-<!-- 🔗 [Репозиторий](https://github.com/cepheil/logistics-bot) · [Подробнее](https://github.com/cepheil/logistics-bot#readme) -->
+ 🔗 [Репозиторий](https://github.com/cepheil/logistics-bot) · [Подробнее](https://github.com/cepheil/logistics-bot#readme)  
 
 - Многошаговый wizard создания заявок
 - Ролевая модель доступа (диспетчер / логист / админ)

@@ -1,6 +1,6 @@
 ## Hi there 👋, меня зовут **Сергей**, я Java Backend Developer.
 
-
+https://github.com/cepheil/logistic-bot
 
 Перешёл в разработку после многолетнего опыта в логистике и управлении процессами.
 Создаю backend-системы на Java: от архитектуры до деплоя. Особый интерес — серверная логика, многопользовательские системы и чистая архитектура.
@@ -26,8 +26,8 @@
 
 > Backend-приложение для автоматизации диспетчерской работы
 
-
- 🔗 [Репозиторий](https://github.com/cepheil/logistics-bot) · [Подробнее](https://github.com/cepheil/logistics-bot#readme)  
+ 
+ 🔗 [Репозиторий](https://github.com/cepheil/logistic-bot) · [Подробнее](https://github.com/cepheil/logistic-bot#readme)  
 
 - Многошаговый wizard создания заявок
 - Ролевая модель доступа (диспетчер / логист / админ)

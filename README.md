@@ -47,7 +47,7 @@
 > Бот-крупье для Texas Hold'em с полным игровым циклом, экономикой и системой прогрессии
 
 
-<!-- 🔗 [Репозиторий](https://github.com/cepheil/poker-bot) · [Подробнее](https://github.com/cepheil/poker-bot#readme) -->
+ 🔗 [Репозиторий](https://github.com/cepheil/poker-bot) · [Подробнее](https://github.com/cepheil/poker-bot#readme)  
 
 **Игровой движок**
 - Полный цикл: preflop → flop → turn → river → showdown
